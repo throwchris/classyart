@@ -1,0 +1,10 @@
+/* Set grayscale effect */
+.w3-grayscale-max {
+    filter: grayscale(100%);
+  }
+  
+  /* Remove grayscale effect on hover */
+  .w3-grayscale-max:hover {
+    filter: grayscale(0%);
+  }
+  
